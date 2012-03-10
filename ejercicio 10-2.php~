@@ -27,7 +27,7 @@ echo $this->mensajeB;
 } 
 } 
 
-$obj = new B("probando esto ","xxxxx"); 
+$obj = new B("soy tito","soy pepe"); 
 $obj->hola(); 
 ? >
 
